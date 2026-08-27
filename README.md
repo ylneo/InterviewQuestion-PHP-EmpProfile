@@ -18,4 +18,4 @@ Frontend: Blade + HTML5/CSS
 <b>Screenshots</b>
 ![Employee list](screenshots/Index_Employee.png)
 ![Add employee form](screenshots/Create_Employee.png)
-
+![Show employee profile](screenshots/Show_Employee.png)
