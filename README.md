@@ -15,3 +15,7 @@
 Backend: Laravel / JSON (records stored in storage/app/employees.json)
 Frontend: Blade + HTML5/CSS
 
+<b>Screenshots</b>
+![Employee list](screenshots/Index_Employee.png)
+![Add employee form](screenshots/Create_Employee.png)
+![Employee profile](screenshots/Show_Employee.png)
